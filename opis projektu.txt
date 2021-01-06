@@ -1,0 +1,1 @@
+Projekt przedstawia bazę danych dużej, chińskiej restauracji. Gromadzi on informacje niezbędne do jej wydajnego funkcjonowania, takie jak dane obsługi, menu, zamówienia złożone przez klientów oraz dostępne składniki.
